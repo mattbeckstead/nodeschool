@@ -1,0 +1,6 @@
+learnyounode
+expressworks
+makemehapi
+stream-adventure
+functional-javascript-workshop
+async-you
